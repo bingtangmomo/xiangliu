@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>xiangliu</title>
+  </head>
+  <body>
+    <img src="2.jpg" alt="Image description" />
+    <audio src="等不到的等待.mp3" controls></audio>
+  </style>
+  <style>
+    img {
+      border: 1px solid black;
+      margin: 10px;
+    }
+  </style>
